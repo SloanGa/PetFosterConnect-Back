@@ -1,6 +1,4 @@
-# Pet-foster-connect-BACK
-
-# Pet Foster Connect - Front
+# Pet Foster Connect - Back
 
 ## Présentation du projet
 
