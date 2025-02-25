@@ -1,6 +1,18 @@
 # Pet-foster-connect-BACK
 
-## Gestion base de données dans le conteneur Docker:
+# Pet Foster Connect - Front
+
+## Présentation du projet
+
+Pet Foster Connect est une application web de mise en relation entre des associations de protection animal et des familles pouvant accueillir temporairement des animaux avant leur adoption définitive.
+
+## Prérequis
+
+Le projet utilise Docker, qui doit donc être installé et lancé.
+
+## Installation du projet et gestion base de données dans le conteneur Docker
+
+Une fois le dépôt cloné, lancer le conteneur :
 
     docker compose up
 
